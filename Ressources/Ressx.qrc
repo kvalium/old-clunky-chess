@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/Images" >
+    <file>cavalierblanc.png</file>
+    <file>cavaliernoir.png</file>
+    <file>dameblanche.png</file>
+    <file>damenoire.png</file>
+    <file>foublanc.png</file>
+    <file>founoir.png</file>
+    <file>pionblanc.png</file>
+    <file>pionnoir.png</file>
+    <file>roiblanc.png</file>
+    <file>roinoir.png</file>
+    <file>tourblanche.png</file>
+    <file>tournoire.png</file>
+  </qresource>
+</RCC>
